@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">guider</string>
+    <string name="running">RUNNING</string>
+    <string name="text_run_detail">This guide is to help build a habit of running everyday.</string>
+    <string name="text_run_bullet">\u2022 learn to run \n\u2022 increase stamina \n\u2022 run longer distances \n\u2022 get fit</string>
+    <string name="button_run_go">GO</string>
+</resources>

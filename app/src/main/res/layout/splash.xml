@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2017. This Project is under Copyright and cannot be used. However the components are available under the MIT and GPL License on GitHub/vedantkarandikar
+  -->
+
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <com.ramotion.circlemenu.CircleMenuView
+        android:id="@+id/circle_menu"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:button_colors="@array/colors"
+        app:button_icons="@array/icons">
+
+    </com.ramotion.circlemenu.CircleMenuView>
+
+</android.support.constraint.ConstraintLayout>
